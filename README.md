@@ -8,7 +8,7 @@
 ## Setup
 1. Clone the repository
     ```sh
-    git clone 
+    git clone https://github.com/Preeteshspec/InternShipFolder.git
     cd real-time-bidding
     ```
 
